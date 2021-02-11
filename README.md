@@ -1,6 +1,6 @@
 ![Header SMzstudio](https://media-exp1.licdn.com/dms/image/C4E16AQGoZPLSTBMtwA/profile-displaybackgroundimage-shrink_350_1400/0/1608708777517?e=1618444800&v=beta&t=wXqVBlvcpUTuxDy4WOk5WoWuv4mdSwjVln9rLhPj_0M)
 
-_Sono Software architect e php developer da diversi anni._
+_Sono Software architect e Full-stack developer da diversi anni._
 
 Nato come sviluppatore principalmente PHP, nel corso degli anni mi sono interessato di DevOps e Front-end, abbracciando tutto il mondo dello sviluppo dal server all'interfaccia.
 
