@@ -1,4 +1,4 @@
-![Header SMzstudio](https://media-exp1.licdn.com/dms/image/C4D16AQFtoD5OYXMayw/profile-displaybackgroundimage-shrink_200_800/0?e=1602115200&v=beta&t=YBH_-awF_9kCtVFRwz5yHNgoCBtz8mUIbx1xqRhXrm0)
+![Header SMzstudio](https://media-exp1.licdn.com/dms/image/C4E16AQGoZPLSTBMtwA/profile-displaybackgroundimage-shrink_350_1400/0/1608708777517?e=1618444800&v=beta&t=wXqVBlvcpUTuxDy4WOk5WoWuv4mdSwjVln9rLhPj_0M)
 
 _Sono Software architect e php developer da diversi anni._
 
