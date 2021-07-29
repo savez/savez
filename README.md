@@ -1,4 +1,4 @@
-![Header SMzstudio](https://media-exp1.licdn.com/dms/image/C4E16AQGoZPLSTBMtwA/profile-displaybackgroundimage-shrink_350_1400/0/1608708777517?e=1626307200&v=beta&t=-cFNcM9-cxveS1LfjlbNRe8EtLkB211YW1_zCeRt-4o)
+![Header SMzstudio](https://media-exp1.licdn.com/dms/image/C4E16AQGoZPLSTBMtwA/profile-displaybackgroundimage-shrink_350_1400/0/1608708777517?e=1632960000&v=beta&t=OREBjphabu_XAVXjMXeslov8TowpuOzv2ThqyWO8vjw)
 
 _Sono Software architect e Full-stack developer da diversi anni._
 
