@@ -1,4 +1,4 @@
-![Header SMzstudio](https://drive.google.com/file/d/1kAEXMYZo-yneC9yV-2JJFOaf9rcwSemo/view?usp=sharing)
+![Header SMzstudio](https://drive.google.com/file/d/1kAEXMYZo-yneC9yV-2JJFOaf9rcwSemo/view)
 
 _Sono Software architect e Full-stack developer da diversi anni._
 
