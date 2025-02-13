@@ -1,5 +1,3 @@
-![Header SMzstudio]([https://smzstudio.it/static/1608708777517.jpeg](https://github.com/savez/personalSite/blob/main/static/1608708777517.jpeg))
-
 _Sono Software architect e Full-stack developer da diversi anni._
 
 Nato come sviluppatore principalmente PHP, nel corso degli anni mi sono interessato di DevOps e Front-end, abbracciando tutto il mondo dello sviluppo dal server all'interfaccia.
