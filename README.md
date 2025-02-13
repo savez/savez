@@ -1,4 +1,4 @@
-![Header SMzstudio](https://smzstudio.it/static/1608708777517.jpeg)
+![Header SMzstudio]([https://smzstudio.it/static/1608708777517.jpeg](https://github.com/savez/personalSite/blob/main/static/1608708777517.jpeg))
 
 _Sono Software architect e Full-stack developer da diversi anni._
 
