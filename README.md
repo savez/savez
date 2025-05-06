@@ -5,3 +5,10 @@ Nato come sviluppatore principalmente PHP, nel corso degli anni mi sono interess
 Mi occupo principalmente della realizzazione di applicativi custom dedicati a specifiche esigenze del cliente, seguendoli nell'analisi e nello sviluppo seguendo la metodologia SCRUM per la realizzazione dei progetti.
 
 Mi piace migliorare la metodologia, rimanendo costantemente aggiornato sulle nuove tecnologie o linguaggi di programmazione, studiando e confrontandomi con gli altri.
+
+
+LINKS
+- https://smzstudio.it/
+- https://medium.com/@savezzo
+- https://slides.com/saveriom
+- https://www.linkedin.com/in/saveriomenin/
