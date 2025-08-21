@@ -1,14 +1,24 @@
-_Sono Software architect e Full-stack developer da diversi anni._
+Ciao! 👋 Sono _Saverio Menin_
 
-Nato come sviluppatore principalmente PHP, nel corso degli anni mi sono interessato di DevOps e Front-end, abbracciando tutto il mondo dello sviluppo dal server all'interfaccia.
-
-Mi occupo principalmente della realizzazione di applicativi custom dedicati a specifiche esigenze del cliente, seguendoli nell'analisi e nello sviluppo seguendo la metodologia SCRUM per la realizzazione dei progetti.
-
-Mi piace migliorare la metodologia, rimanendo costantemente aggiornato sulle nuove tecnologie o linguaggi di programmazione, studiando e confrontandomi con gli altri.
+In qualità di Chief Software Architecte & Full-stack Developer, mi dedico da anni alla progettazione e realizzazione di soluzioni software complete.
 
 
-LINKS
-- https://smzstudio.it/
-- https://medium.com/@savezzo
-- https://slides.com/saveriom
-- https://www.linkedin.com/in/saveriomenin/
+Ho iniziato la mia carriera con una solida base in PHP 🐘, per poi espandere le mie competenze all'intero ecosistema di sviluppo: dal DevOps al Front-end, abbracciando ogni fase del ciclo di vita del software.
+
+
+Mi focalizzo sull'aspetto architetturale del sistema e sulle integrazioni, gestendo ogni fase fino al deployment. 
+L'applicazione della metodologia SCRUM garantisce massima efficienza e trasparenza, mentre i miei KPI principali - performance 🚀, sicurezza 🔒 e manutenibilità ✅ - guidano ogni scelta progettuale.
+
+
+Negli ultimi anni, ho concentrato la mia esperienza sull'architettura cloud-native, portando le aziende verso soluzioni serverless che garantiscono scalabilità, efficienza e innovazione. 
+E, sebbene l'Intelligenza Artificiale 🤖 sia ormai un "must", la considero un prezioso alleato: analizzo costantemente nuovi strumenti AI per integrarli nel mio lavoro, ottimizzare la mia attività di architetto e sviluppatore, e migliorare anche la mia vita quotidiana.
+
+
+La domotica e l'IoT sono la mia passione segreta. 
+Amo sperimentare in casa con nuovi dispositivi e progetti, un modo per trasformare la teoria in pratica e imparare divertendomi.
+
+🔗 Dove trovarmi
+- 🌐 Sito web: smzstudio.it
+- 📝 Blog: medium.com/@savezzo
+- 🗣️ Presentazioni: slides.com/saveriom
+- 🤝 LinkedIn: linkedin.com/in/saveriomenin/
