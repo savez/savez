@@ -1,28 +1,29 @@
 # 👋 Ciao, sono Saverio Menin
 
-💻 **Chief Software Architect & Full-stack Developer**  
-Da anni progetto e realizzo soluzioni software complete, occupandomi di ogni fase del ciclo di vita: dall’architettura al codice, fino al deployment.
+💻 **CTO & Software Architect**  
+Guido la visione tecnologica e realizzo soluzioni software complete ed end-to-end: dalla strategia e architettura fino al codice, DevOps e deployment.
 
 ---
 
 ## 🚀 About Me
-- Ho iniziato con **PHP** 🐘, poi ho ampliato le mie competenze a tutto l’ecosistema di sviluppo:  
+- Partito da **PHP** 🐘, ho esteso la mia esperienza a tutto l’ecosistema software:  
   **Front-end**, **Back-end**, **DevOps** e **Cloud**.
-- Mi concentro sugli aspetti **architetturali** e sulle **integrazioni**, applicando metodologie **SCRUM** per efficienza e trasparenza.
-- I miei **KPI** principali guidano ogni progetto:  
+- Mi dedico alla direzione **architetturale**, alle **integrazioni complesse** e alla gestione dei processi con metodologia **SCRUM**.
+- Guidato da tre KPI fondamentali in ogni progetto:  
   ✅ *performance* · 🔒 *sicurezza* · ♻️ *manutenibilità*
 
 ---
 
 ## ☁️ Focus Attuale
-- Architetture **cloud-native** e **serverless** per garantire scalabilità ed efficienza.  
-- Integrazione dell’**Intelligenza Artificiale** 🤖 come strumento per migliorare workflow, sviluppo e vita quotidiana.  
-- Passione per **Domotica & IoT**, dove sperimento e porto la teoria nella pratica.  
+- Architetture **cloud-native** e **serverless** per garantire massima scalabilità ed efficienza.  
+- Applicazione dell’**Intelligenza Artificiale** 🤖 per ottimizzare workflow, processi di sviluppo e operatività quotidiana.  
+- Passione per **IoT & Domotica**, per sperimentare e trasformare la teoria in soluzioni pratiche.  
 
 ---
 
 ## 🔗 Dove trovarmi
 - 🌐 [Sito web](https://smzstudio.it)  
+- 📰 [Substack](https://smzstudio.substack.com)  
 - 📝 [Blog](https://medium.com/@savezzo)  
 - 🗣️ [Presentazioni](https://slides.com/saveriom)  
 - 🤝 [LinkedIn](https://linkedin.com/in/saveriomenin/)  
