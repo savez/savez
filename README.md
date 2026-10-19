@@ -14,14 +14,14 @@ Guido la visione tecnologica e realizzo soluzioni software complete ed end-to-en
 - Guidato da tre KPI fondamentali in ogni progetto:  
   ✅ *performance* · 🔒 *sicurezza* · ♻️ *manutenibilità*
 
----
+
 
 ## ☁️ Focus Attuale
 - Architetture **cloud-native** e **serverless** per garantire massima scalabilità ed efficienza.  
 - Applicazione dell'**Intelligenza Artificiale** 🤖 per ottimizzare workflow, processi di sviluppo e operatività quotidiana.  
 - Passione per **IoT & Domotica**, per sperimentare e trasformare la teoria in soluzioni pratiche.  
 
----
+
 
 ## 🔗 Dove trovarmi
 - 🌐 [Sito web](https://smzstudio.it)  
@@ -30,6 +30,6 @@ Guido la visione tecnologica e realizzo soluzioni software complete ed end-to-en
 - 🗣️ [Presentazioni](https://slides.com/saveriom)  
 - 🤝 [LinkedIn](https://linkedin.com/in/saveriomenin/)  
 
----
+
 
 ✨ _"Architettura, innovazione e sperimentazione: il software come strumento per creare valore reale."_
