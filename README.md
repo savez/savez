@@ -5,7 +5,7 @@ Guido la visione tecnologica e realizzo soluzioni software complete ed end-to-en
 
 [![Substack](https://img.shields.io/badge/Iscriviti%20alla%20newsletter-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://smzstudio.substack.com)
 
----
+
 
 ## 🚀 About Me
 - Partito da **PHP** 🐘, ho esteso la mia esperienza a tutto l'ecosistema software:  
